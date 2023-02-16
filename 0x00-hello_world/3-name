@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-     puts("\"AHMED FAYED");
+     puts("\"Ahmed Fayed");
     return (0);
 }
